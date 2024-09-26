@@ -15,4 +15,9 @@ no :085257802904
 ## hasil web 
 https://zakafahmi.github.io/ZakaStore/
 
+# kelemahan
+1.gambar basih burik 
+2.data penataan kurang
+
+
 ![logo](https://raw.githubusercontent.com/zakafahmi/Front-end-web-store/main/2021-04-22_21-17.png)
